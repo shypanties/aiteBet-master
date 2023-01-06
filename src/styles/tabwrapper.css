@@ -1,0 +1,24 @@
+.tabs-wrapper {
+  /* border: 1px solid orange; */
+  display: flex;
+  flex: 0;
+  flex-direction: row;
+  width: 820px;
+  max-width:100%;
+  border-radius: 20px;
+}
+
+.individual-tab-wrapper {
+  background-color: paleturquoise;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  padding: 15px 30px;
+}
+
+.tab-left-edge {
+  border-radius: 10px 0 0 0;
+}
+.tab-right-edge {
+  border-radius: 0 10px 0 0;
+}

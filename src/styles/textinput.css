@@ -1,0 +1,20 @@
+.textinput {
+  box-shadow: none;
+  border-radius: 8px;
+  height: 15px;
+  padding: 10px;
+  border-style: solid;
+  border-color: #eeeeee;
+  border-width: 1px;
+  box-shadow: none;
+  outline: none;
+  padding: 10px;
+  font-size: 16px;
+  width: 300px;
+  max-width: 100%;
+  margin-left: 10px;
+}
+
+.textinput-wrapper {
+  margin-bottom: 20px;
+}
