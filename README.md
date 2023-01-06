@@ -1,4 +1,5 @@
-## WIP: scoreboard web app built with MERN stack.
+## Top secret score board
 
+To run client and server:
 ### `yarn start`
 ### `yarn server`
